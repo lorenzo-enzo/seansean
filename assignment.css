@@ -1,0 +1,57 @@
+h1 {
+background-color: #BB8360;
+border-color: #7b5640;
+    border-style:dashed;
+    border-width: 2pt;
+    padding: 50px;
+    margin: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+background-color: #BB8360;
+border-color: #7b5640;
+    border-style:dashed;
+    border-width: 2pt;
+    padding: 30px;
+    margin: 30px;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color:#c2bab3
+}
+
+.image {
+    border-color: #7b5640;
+    border-style:dashed;
+    border-width: 2pt;
+    padding: 30px;
+    margin: 30px;
+}
+
+#mac {
+    color: rgb(46, 59, 140);
+}
+
+.table {
+    background-color:aqua;
+     border-color: #0aa433;
+    border-style:dashed;
+    border-width: 2pt;
+    padding: 30px;
+    margin: 30px;
+}
+
+#button {
+    background-color: #BB8360;
+}
+
+#baruna {
+    color:#570aa4
+}
